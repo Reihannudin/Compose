@@ -1,0 +1,1 @@
+rootProject.name = "com.ktor.boruto-server-auto-reload"
