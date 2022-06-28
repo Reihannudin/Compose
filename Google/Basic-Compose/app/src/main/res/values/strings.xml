@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_section1_pt1">Section1_Pt1</string>
+    <string name="profile_image">profile image</string>
+    <string name="title_activity_section2_pt2">Section2_Pt2</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+</resources>
