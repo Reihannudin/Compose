@@ -17,13 +17,8 @@
         tools:targetApi="31">
         <activity
             android:name=".section1.MainActivity"
-            android:exported="false"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.MyApplication" />
-        <activity
-            android:name=".section2.Section2Activity"
             android:exported="true"
-            android:label="@string/title_activity_section2"
+            android:label="@string/app_name"
             android:theme="@style/Theme.MyApplication">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
